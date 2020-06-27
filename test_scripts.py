@@ -158,11 +158,11 @@ def plotMemoryUsageFromFile(memoryFile):
 
 if __name__ == '__main__':
 
-    playTTTAndPlotResults()
+    #playTTTAndPlotResults()
 
     #playUltimateForTraining()
 
-    #playUltimateAndPlotResults()
+    playUltimateAndPlotResults()
 
     #plotResultsFromFile('results/ultimate_nn1_results_o.csv')
 
